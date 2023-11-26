@@ -1,12 +1,12 @@
 import React from "react";
 import styled from "styled-components";
-import wta from "../../assets/wta.png";
+import wta from "../../assets/antscreen.png";
 import movieapi from "../../assets/movieapi.jpg";
-import portfolio from "../../assets/portfolio.png";
+// import portfolio from "../../assets/portfolio.png";
 import cm from "../../assets/cm.png";
 import dataware from "../../assets/dataware.png";
 import airbnb from "../../assets/airbnb.png";
-import intercon from "../../assets/intercon.png";
+import intercon from "../../assets/itech.png";
 import cheappay from "../../assets/cheappay.png";
 import dnd from "../../assets/dnd.png";
 import altschool from "../../assets/altschool.png";
@@ -25,13 +25,13 @@ function Project() {
               <img src={wta} alt="calc" />
             </div>
             <div className="detail-card">
-              <h2>WEATHER APP</h2>
+              <h2>AntBuilder Web  APP</h2>
               <p> 
-                This UI weather application was built with React, Redux, Chakra-UI, TypeScript, it
+                This application was built with Next JS, Redux, Tailwind Css, TypeScript, it
                 is also responsive to mobile view
               </p>
             </div>
-            <a href="https://curpraweather.vercel.app/">
+            <a href="https://www.antbuilder.tech/">
               <button>CLICK TO VIEW</button>
             </a>
           </InnerBox>
@@ -42,11 +42,11 @@ function Project() {
             <div className="detail-card">
               <h2>INTERCON</h2>
               <p> 
-                This application was built with React, Redux, Chakra-UI, TypeScript, it provides
+                This application was built with React,Next JS,  Chakra-UI, TypeScript, it provides
                 Holistic Solutions to Unleash Business’s Full Potential
               </p>
             </div>
-            <a href="https://intercon-xi.vercel.app/">
+            <a href="https://itechnetronics.com/">
               <button>CLICK TO VIEW</button>
             </a>
           </InnerBox>
