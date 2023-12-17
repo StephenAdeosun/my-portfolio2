@@ -73,7 +73,7 @@ function Project() {
         <Box>
          <InnerBox data-aos="zoom-in">
             <div>
-              <img src={cheappay} alt="curtis" />
+              <img src={cheappay} alt="stephen" />
             </div>
             <div className="detail-card">
               <h2>CHEAPPAY APP</h2>
