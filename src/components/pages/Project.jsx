@@ -70,6 +70,7 @@ function Project() {
          
         </Box>
 
+
         <Box>
          <InnerBox data-aos="zoom-in">
             <div>
